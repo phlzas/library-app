@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://covers.openlibrary.org/b/id/11153271-L.jpg",
+        "price": 180,
+        "title": "Obra Selecta",
+        "author": "Cyril Connolly",
+        "description": "A collection of selected works — a compilation of key writings",
+        "rate": 4.1
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://covers.openlibrary.org/b/id/10200166-L.jpg",
+        "price": 200,
+        "title": "Dare to love Again",
+        "author": "Julie Lessman",
+        "description": "A romantic novel by Julie Lessman delving into faith, love, and redemption",
+        "rate": 4.4
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://covers.openlibrary.org/b/id/8114156-L.jpg",
+        "price": 220,
+        "title": "Utopia",
+        "author": "Thomas More",
+        "description": "Thomas More’s philosophical fiction describing a fictional island society and its political system",
+        "rate": 4.7
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://covers.openlibrary.org/b/id/10521257-L.jpg",
+        "price": 150,
+        "title": "Pixie",
+        "author": "D Jordan Redhawk",
+        "description": "A charming fantasy tale centered around a pixie and her adventures",
+        "rate": 4
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+        "price": 250,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "description": "A classic fantasy novel by J.R.R. Tolkien about Bilbo Baggins’ unexpected journey",
+        "rate": 4.8
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+        "price": 160,
+        "title": "What We Forgot To Bury",
+        "author": "Marin Montgomery",
+        "description": "A novel exploring memories, relationships, and the passage of time",
+        "rate": 4.2
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://covers.openlibrary.org/b/id/12603289-L.jpg",
+        "price": 190,
+        "title": "Stationen Deutscher",
+        "author": "Gregor Schollgen",
+        "description": "A German language work documenting key historic and cultural milestones",
+        "rate": 4.3
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://ia600507.us.archive.org/view_archive.php?archive=/8/items/l_covers_0009/l_covers_0009_87.zip&file=0009877886-L.jpg",
+        "price": 160,
+        "title": "E-Privacy",
+        "author": "Helmut Baumler",
+        "description": "An overview of electronic privacy, online data protection, and digital-age security challenges",
+        "rate": 4.2
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://ia804605.us.archive.org/view_archive.php?archive=/14/items/l_covers_0011/l_covers_0011_15.zip&file=0011153284-L.jpg",
+        "price": 150,
+        "title": "Cuentos de Así Fue",
+        "author": "Unknown Author",
+        "description": "A collection of Spanish short tales reflecting personal experiences and cultural moments",
+        "rate": 4.3
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://ia600100.us.archive.org/view_archive.php?archive=/5/items/l_covers_0012/l_covers_0012_63.zip&file=0012638107-L.jpg",
+        "price": 180,
+        "title": "Life of Franklin D. Richards",
+        "author": "Franklin D. Richards",
+        "description": "\"A biographical account covering the life, leadership, and contributions of Franklin D. Richards",
+        "rate": 4.5
+    }
+]
